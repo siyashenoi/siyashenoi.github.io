@@ -1,0 +1,55 @@
+website:
+  title: "Siya Shenoi"                               
+  image: siya.JPG
+  favicon: heart-fill (1).svg
+  
+  navbar:
+    pinned: true
+    
+    left:
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "resume"
+        href: resume/index.qmd
+      - text: "About Me"
+        href: about.qmd
+    
+    
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/siyashenoi
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.ssshenoi@calpoly.edu" 
+      - icon: facebook
+        href: https://www.facebook.com/siya.shenoi.7/
+  
+  search: 
+    location: navbar
+    type: textbox
+  
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - sandstone
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

@@ -1,0 +1,14 @@
+---
+title: "About Me!"
+---
+
+<img src="siya2.jpg" style="height: 50%; width: 50%; object-fit: contain"/>
+
+
+Hometown: Cupertino, CA 
+
+
+Academic Interests: Data Visualization, Machine Learning, AI, Algorithms
+
+
+Non-Academic Interests: Field Hockey, Baking, Animals, Hiking, Concerts

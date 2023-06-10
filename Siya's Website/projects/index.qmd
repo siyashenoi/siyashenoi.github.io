@@ -1,0 +1,33 @@
+---
+title: Projects
+---
+Here, you will find an assortment of projects I have done related to statistics and data visualization. 
+
+## *Copy The Masters*
+
+<img src="Screenshot 2023-06-09 at 7.19.58 PM.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://app.luminpdf.com/viewer/6484177785daea0628fd0001" target="_blank">Full Report</a>
+
+In this project, I attempted to recreate a graphic from FiveThirtyEight's acrticle: The Media Really Has Neglected Puerto Rico. The graph is supposed to depict the amount of coverage continental U.S. hurricanes vs. non-continental U.S. hurricanes received in the media. The graph is an area plot, so it is dislaying the time-series data of sentences over time. The graph depicts the number of sentences per day that mention Hurricanes Harvey, Irma, Jose, and Maria in online news, from the dates 8/21/17 to 9/22/17. 
+
+------------------------------------------------------------------------
+
+## *One-number Story:* 
+
+<img src="Santa-Clara-County.jpg" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://docs.google.com/document/d/14A3SddvCw8xrXrUSGgHEv2TWs2urB0Oi5I6SU6ubyJs/edit">Full Paper</a>
+
+In this paper, I examine the trends in of declining enrollment in non-charter schools throughout the county of Santa Clara, and over the past two years, total enrollment has dropped 7.67%. I attempt to pinpoint what exactly caused the drop in enrollment. 
+
+------------------------------------------------------------------------
+
+## *Rose Diagram* 
+
+<img src="Screenshot 2023-06-09 at 7.16.53 PM.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://app.luminpdf.com/viewer/6484171585daea0628fcf5cfhttps://app.luminpdf.com/viewer/6484171585daea0628fcf5cf" target="_blank">Full Report</a>
+
+The rose diagram, also known as the coxcomb diagram, was created by Nightingale in 1858 to show the leading causes of death of British soldiers. This was done by Nightingale since she persuaded Queen Victoria of England to investigate the health conditions of the army, so the large death toll did not happen again. The display is essentially a circular histogram. Specifically, Nightingale's diagram had two time periods; April 1854 to March 1855, and April 1855 to March 1856. There are three categories corresponding to the leading causes of death of British soldiers: blue is disease, red is wounds, and grey is other causes. I used R to recreate this chart. 
+

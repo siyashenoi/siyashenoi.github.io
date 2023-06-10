@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "siya.JPG"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/siyashenoi
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/siyashenoi
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.ssshenoi@calpoly.edu"  
+---
+
+::: {#about-block}
+:::
+
+# *Welcome to my website!*
+
+My name is Siya, and I'm thrilled to have you here. I'm currently a second-year student pursuing a bachelor's degree in statistics with a minor in computer science at California Polytechnic State University, San Luis Obispo.
+
+Throughout my academic journey, I have developed a deep liking for the world of data. Statistics has provided me with a strong foundation in analytical thinking, allowing me to extract meaningful insights from complex datasets, using skills such as probability theory and regression analysis.
+
+On this website, I invite you to join me on my journey through the world of statistics, computer science, and data visualization. I'll be sharing my projects, insights, and work and college experiences.
+
+Outside of statistics, you can usually find me at the gym, baking cakes, or spending time with my pet dog and lizards :-)

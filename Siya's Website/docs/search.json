@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here, you will find an assortment of projects I have done related to statistics and data visualization."
+  },
+  {
+    "objectID": "projects/index.html#copy-the-masters",
+    "href": "projects/index.html#copy-the-masters",
+    "title": "Projects",
+    "section": "Copy The Masters",
+    "text": "Copy The Masters\n\nFull Report\nIn this project, I attempted to recreate a graphic from FiveThirtyEight’s acrticle: The Media Really Has Neglected Puerto Rico. The graph is supposed to depict the amount of coverage continental U.S. hurricanes vs. non-continental U.S. hurricanes received in the media. The graph is an area plot, so it is dislaying the time-series data of sentences over time. The graph depicts the number of sentences per day that mention Hurricanes Harvey, Irma, Jose, and Maria in online news, from the dates 8/21/17 to 9/22/17."
+  },
+  {
+    "objectID": "projects/index.html#one-number-story",
+    "href": "projects/index.html#one-number-story",
+    "title": "Projects",
+    "section": "One-number Story:",
+    "text": "One-number Story:\n\nFull Paper\nIn this paper, I examine the trends in of declining enrollment in non-charter schools throughout the county of Santa Clara, and over the past two years, total enrollment has dropped 7.67%. I attempt to pinpoint what exactly caused the drop in enrollment."
+  },
+  {
+    "objectID": "projects/index.html#rose-diagram",
+    "href": "projects/index.html#rose-diagram",
+    "title": "Projects",
+    "section": "Rose Diagram",
+    "text": "Rose Diagram\n\nFull Report\nThe rose diagram, also known as the coxcomb diagram, was created by Nightingale in 1858 to show the leading causes of death of British soldiers. This was done by Nightingale since she persuaded Queen Victoria of England to investigate the health conditions of the army, so the large death toll did not happen again. The display is essentially a circular histogram. Specifically, Nightingale’s diagram had two time periods; April 1854 to March 1855, and April 1855 to March 1856. There are three categories corresponding to the leading causes of death of British soldiers: blue is disease, red is wounds, and grey is other causes. I used R to recreate this chart."
+  },
+  {
+    "objectID": "resume/index.html",
+    "href": "resume/index.html",
+    "title": "Current Resume",
+    "section": "",
+    "text": "Attached is my updated resume.\n\n\n\n\n  \n     Download current Resume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Siya Shenoi",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nMy name is Siya, and I’m thrilled to have you here. I’m currently a second-year student pursuing a bachelor’s degree in statistics with a minor in computer science at California Polytechnic State University, San Luis Obispo.\nThroughout my academic journey, I have developed a deep liking for the world of data. Statistics has provided me with a strong foundation in analytical thinking, allowing me to extract meaningful insights from complex datasets, using skills such as probability theory and regression analysis.\nOn this website, I invite you to join me on my journey through the world of statistics, computer science, and data visualization. I’ll be sharing my projects, insights, and work and college experiences.\nOutside of statistics, you can usually find me at the gym, baking cakes, or spending time with my pet dog and lizards :-)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me!",
+    "section": "",
+    "text": "Hometown: Cupertino, CA\nAcademic Interests: Data Visualization, Machine Learning, AI, Algorithms\nNon-Academic Interests: Field Hockey, Baking, Animals, Hiking, Concerts"
+  }
+]
