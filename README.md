@@ -1,5 +1,5 @@
-## siyashenoi.github.io
+### Link to website: *siyashenoi.github.io*
 
-Overall, I would say making the website was pretty confusing. The documentation for the quarto website options was not easy to follow and I had to use a lot of trial and error to get my desired result, as well as using some html-style code which was sort of new to me. I also had a lot of issues getting the code to commit into the repository. 
+Overall, I would say making the website was pretty confusing. The documentation for the quarto website options was not easy to follow and I had to use a lot of trial and error to get my desired result, as well as using some html-style code which was sort of new to me. I also had a lot of issues getting the code to commit into the repository. However, the more I worked on it, the more it made sense. There were a lot of files that I had to keep track of and the more organized everything was, the more likely the website would render correctly. 
 
-Although, I do think the template of the website is stunning and I'm really happy that I was able to make this. 
+Although, I do think the template of the website is stunning and I'm really happy that I was able to make this. I think I could put this skill to use this summer when I am working at a nonprofit with a non-updated website because there are a lot of customizeable options within the quarto syntax itself and I think the website looks really sleek. I really enjoyed the use of the bootstrap logos, I thought it was a fun little touch. 
